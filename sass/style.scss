@@ -1,0 +1,14 @@
+$primary: #252726; 
+$secondary: #4300ff;
+$white: #FFF;
+
+.pt30 {
+	padding-top: 30px;
+}
+
+.jumbotron {
+	background: $primary; //For browsers that do not support gradients
+	background: linear-gradient(to bottom left, $primary, #4300ff);;
+	height: 40vh;
+	color: $white;
+}

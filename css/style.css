@@ -1,0 +1,10 @@
+.pt30 {
+	padding-top: 30px;
+}
+
+.jumbotron {
+	background: #252726;
+	background: linear-gradient(to bottom left, #252726, #4300ff);
+	height: 40vh;
+	color: #FFF;
+}
